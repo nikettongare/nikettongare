@@ -6,4 +6,4 @@ I am a fullstack software engineer from india
 
 <br>
 
-<p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=tadaspetra&show_icons=true&theme=dark" /></p>
+<p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=nikettongare&show_icons=true&theme=dark" /></p>
