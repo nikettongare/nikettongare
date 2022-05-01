@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UCrzKtjHq0qSREEG1GnEhYYQ" target="_blank" rel="noopener noreferrer">Niket Tongare!</a></h1>
+<h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="https://www.youtube.com/channel/UCrzKtjHq0qSREEG1GnEhYYQ" target="_blank" rel="noopener noreferrer">Niket Tongare!</a></h1>
 <h3 align="center">MERN | NextJs | Flutter | Life</h3>
 
 I am a fullstack software engineer from india
